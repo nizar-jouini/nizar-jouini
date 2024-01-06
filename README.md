@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nizar-jouini
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning java
+- 🌱 I’m Full Stack Python, Java and MERN Web Developper
 - 💞️ I’m looking to collaborate on Full Stack Web Development
 - 📫 How to reach me, email: nizar.jouni.tbs@gmail.com
 
